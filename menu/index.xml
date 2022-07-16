@@ -9,13 +9,23 @@
     <copyright>Proyecto Omega</copyright>
     <lastBuildDate>Wed, 16 Feb 2022 11:20:26 +0100</lastBuildDate><atom:link href="https://tomahawk.proyectoomega.es/menu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lunes</title>
-      <link>https://tomahawk.proyectoomega.es/menu/listamochila/</link>
+      <title>Lunes 19</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menulunes19/</link>
       <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
       
-      <guid>https://tomahawk.proyectoomega.es/menu/listamochila/</guid>
-      <description>Lista Uniforme El uniforme resprenta nuestros valores. ¡Cuídalo!
- Camisa uniforme Pantalón azul Uniforme Medias azules uniforme Botas de Montaña Casquete o boina  Ropa  4 pantalones cortos 2 pantalones largos 5 pares de calcetines 5 mudas de ropa interior 5 camisetas 1 Bañador Cangrejeras Zapatillas deportivas 1 forro polar 1 capa de agua o chubasquero  Equipo para dormir  Saco de dormir Almohada (opcional). ¡La bolsa del saco llena de calcetines (limpios :-)) es una almohada perfecta!</description>
+      <guid>https://tomahawk.proyectoomega.es/menu/menulunes19/</guid>
+      <description>Menu ¡Empieza la aventura! Salimos del local a las 9 de la mañana
+Comida La llevamos de casa. Unos bocatas
+Cena Ensalada con nuggets de pollo.</description>
+    </item>
+    
+    <item>
+      <title>Martes 20</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menumartes20/</link>
+      <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
+      
+      <guid>https://tomahawk.proyectoomega.es/menu/menumartes20/</guid>
+      <description>Menu Comida  Macarrones con tomate y chorizo Fruta  Cena  Crema Vichyssoise Filete de lomo  </description>
     </item>
     
   </channel>
