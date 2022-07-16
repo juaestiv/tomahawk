@@ -7,8 +7,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://tomahawk.proyectoomega.es/menu/listamochila/</loc>
+    <lastmod>2022-04-03T08:16:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://tomahawk.proyectoomega.es/preparacionmacuto/organizacionmochila/</loc>
     <lastmod>2022-04-03T08:16:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tomahawk.proyectoomega.es/menu/</loc>
+    <lastmod>2022-02-16T11:20:26+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
