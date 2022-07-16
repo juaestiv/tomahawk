@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tomahawk.proyectoomega.es/menu/menujueves21/</loc>
+    <lastmod>2022-04-03T08:16:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tomahawk.proyectoomega.es/menu/menuviernes23/</loc>
+    <lastmod>2022-04-03T08:16:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://tomahawk.proyectoomega.es/preparacionmacuto/listamochila/</loc>
     <lastmod>2022-04-03T08:16:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tomahawk.proyectoomega.es/menu/menulunes19/</loc>
+    <loc>https://tomahawk.proyectoomega.es/menu/menumartes19/</loc>
     <lastmod>2022-04-03T08:16:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tomahawk.proyectoomega.es/menu/menumartes20/</loc>
+    <loc>https://tomahawk.proyectoomega.es/menu/menumiercoles20/</loc>
     <lastmod>2022-04-03T08:16:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tomahawk.proyectoomega.es/preparacionmacuto/organizacionmochila/</loc>
+    <lastmod>2022-04-03T08:16:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tomahawk.proyectoomega.es/menu/menuviernes22/</loc>
     <lastmod>2022-04-03T08:16:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

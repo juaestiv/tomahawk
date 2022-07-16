@@ -9,11 +9,30 @@
     <copyright>Proyecto Omega</copyright>
     <lastBuildDate>Wed, 16 Feb 2022 11:20:26 +0100</lastBuildDate><atom:link href="https://tomahawk.proyectoomega.es/menu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lunes 19</title>
-      <link>https://tomahawk.proyectoomega.es/menu/menulunes19/</link>
+      <title>Jueves 21</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menujueves21/</link>
       <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
       
-      <guid>https://tomahawk.proyectoomega.es/menu/menulunes19/</guid>
+      <guid>https://tomahawk.proyectoomega.es/menu/menujueves21/</guid>
+      <description>Menu Comida  Puré con salchichas Fruta  Cena  Guisantes con jamon. Lomo de sajonia Lomo Sajonia  </description>
+    </item>
+    
+    <item>
+      <title>Jueves 22</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menuviernes23/</link>
+      <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
+      
+      <guid>https://tomahawk.proyectoomega.es/menu/menuviernes23/</guid>
+      <description>Menu Empiezan las marchas
+Comida  Bocatas Fruta y yogur  Cena  Arroz con pollo  </description>
+    </item>
+    
+    <item>
+      <title>Martes 19</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menumartes19/</link>
+      <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
+      
+      <guid>https://tomahawk.proyectoomega.es/menu/menumartes19/</guid>
       <description>Menu ¡Empieza la aventura! Salimos del local a las 9 de la mañana
 Comida La llevamos de casa. Unos bocatas
 Cena Ensalada con nuggets de pollo.</description>
@@ -21,11 +40,21 @@ Cena Ensalada con nuggets de pollo.</description>
     
     <item>
       <title>Martes 20</title>
-      <link>https://tomahawk.proyectoomega.es/menu/menumartes20/</link>
+      <link>https://tomahawk.proyectoomega.es/menu/menumiercoles20/</link>
       <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
       
-      <guid>https://tomahawk.proyectoomega.es/menu/menumartes20/</guid>
+      <guid>https://tomahawk.proyectoomega.es/menu/menumiercoles20/</guid>
       <description>Menu Comida  Macarrones con tomate y chorizo Fruta  Cena  Crema Vichyssoise Filete de lomo  </description>
+    </item>
+    
+    <item>
+      <title>Viernes 22</title>
+      <link>https://tomahawk.proyectoomega.es/menu/menuviernes22/</link>
+      <pubDate>Sun, 03 Apr 2022 08:16:01 +0200</pubDate>
+      
+      <guid>https://tomahawk.proyectoomega.es/menu/menuviernes22/</guid>
+      <description>Menu ¡Hoy vamos a la piscina natural!
+Comida  Unos bocatas en la piscina Fruta y yogur  Cena  Arroz con pollo  </description>
     </item>
     
   </channel>
